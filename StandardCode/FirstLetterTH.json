@@ -1,0 +1,23 @@
+{"results":[{"columns":[{"name":"ID","type":""},{"name":"FIRST_C","type":""},{"name":"GROUP_C","type":""}],"items":
+[
+{"id":1,"first_c":"K","group_c":"ก"}
+,{"id":2,"first_c":"KH","group_c":"ข ค ฆ"}
+,{"id":3,"first_c":"NG","group_c":"ง"}
+,{"id":4,"first_c":"J","group_c":"จ"}
+,{"id":5,"first_c":"CH","group_c":"ฉ ช ฌ"}
+,{"id":6,"first_c":"Y","group_c":"ญ ย"}
+,{"id":7,"first_c":"D","group_c":"ด ฎ"}
+,{"id":8,"first_c":"T","group_c":"ต"}
+,{"id":9,"first_c":"TH","group_c":"อ ฐ ฑ ฒ ท ธ"}
+,{"id":10,"first_c":"N","group_c":"น"}
+,{"id":11,"first_c":"B","group_c":"บ"}
+,{"id":12,"first_c":"P","group_c":"ป"}
+,{"id":13,"first_c":"PH","group_c":"ผ พ ภ"}
+,{"id":14,"first_c":"F","group_c":"ฝ ฟ"}
+,{"id":15,"first_c":"M","group_c":"ม"}
+,{"id":16,"first_c":"R","group_c":"ร ล ฤ ฬ"}
+,{"id":17,"first_c":"W","group_c":"ว"}
+,{"id":18,"first_c":"S","group_c":"ช(ทร) ศ ษ ส"}
+,{"id":19,"first_c":"H","group_c":"ห ฮ"}
+,{"id":20,"first_c":"อ","group_c":"A E I O U"}
+]}
