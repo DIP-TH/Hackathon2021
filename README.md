@@ -14,10 +14,10 @@ template file tmdata.jsonc
 
 
 ## รหัส Vienna Code
-
+[/StandardCode/ViennaCodeTH.json](https://github.com/DIP-TH/Hackathon2021/blob/main/StandardCode/ViennaCodeTH.json)
 
 ## รหัสอักษรแรก
-
+[/StandardCode/FirstLetterTH.json](https://github.com/DIP-TH/Hackathon2021/blob/main/StandardCode/FirstLetterTH.json)
 
 ## รหัสเสียงท้าย
-
+[/StandardCode/LastSoundTH.json](https://github.com/DIP-TH/Hackathon2021/blob/main/StandardCode/LastSoundTH.json)
