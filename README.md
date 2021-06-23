@@ -16,6 +16,17 @@
 | tr_no | เลขคำขอ |
 | matra | มาตราที่สั่งการ |
 
+## ข้อมูลรายละเอียดคำสั่งนายทะเบียน
+[รายละเอียดคำสั่งนายทะเบียน](https://github.com/DIP-TH/Hackathon2021/blob/main/TMSimilarData/export.zip)
+
+แตก zip จะได้ file tsv (tab seperate value)
+
+| Field | Description |
+| --- | --- |
+| tr_no | เลขคำขอ |
+| matra | มาตราที่สั่งการ |
+|matra_desc| รายละเอียดคำสั่ง |
+
 ## ข้อมูลคำขอที่ติดเหมือนคล้าย
 [TMSimilarData/TMSimilarData.json](https://github.com/DIP-TH/Hackathon2021/blob/main/TMSimilarData/TMSimilarData.json)
 
