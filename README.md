@@ -6,7 +6,7 @@
 ## API 
 สามารถขอใช้ได้ที่ https://api.ipthailand.go.th
 ข้อมูลเครื่องหมายการค้าใช้ api รหัส A0015
-template file tmdata.jsonc
+[response example](https://github.com/DIP-TH/Hackathon2021/blob/main/tmdataStructure.jsonc)
 
 ## ข้อมูลคำสั่งการนายทะเบียน
 [TMSimilarData/TMOrderMatra.json](https://github.com/DIP-TH/Hackathon2021/blob/main/TMSimilarData/TMOrderMatra.json)
