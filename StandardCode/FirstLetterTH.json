@@ -1,4 +1,3 @@
-{"results":[{"columns":[{"name":"ID","type":""},{"name":"FIRST_C","type":""},{"name":"GROUP_C","type":""}],"items":
 [
 {"id":1,"first_c":"K","group_c":"ก"}
 ,{"id":2,"first_c":"KH","group_c":"ข ค ฆ"}
@@ -20,4 +19,4 @@
 ,{"id":18,"first_c":"S","group_c":"ช(ทร) ศ ษ ส"}
 ,{"id":19,"first_c":"H","group_c":"ห ฮ"}
 ,{"id":20,"first_c":"อ","group_c":"A E I O U"}
-]}
+]
