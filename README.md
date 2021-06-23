@@ -70,3 +70,6 @@
 | --- | --- |
 | id | รหัส |
 | read_s | คำอ่าน |
+
+
+Good Luck For All!!!!
