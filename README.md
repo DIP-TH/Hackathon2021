@@ -9,10 +9,13 @@
 template file tmdata.jsonc
 
 ## ข้อมูลคำสั่งการนายทะเบียน
+[TMSimilarData/TMOrderMatra.json](https://github.com/DIP-TH/Hackathon2021/blob/main/TMSimilarData/TMOrderMatra.json)
 
+## ข้อมูลคำขอที่ติดเหมือนคล้าย
+[TMSimilarData/TMSimilarData.json](https://github.com/DIP-TH/Hackathon2021/blob/main/TMSimilarData/TMSimilarData.json)
 
-## ข้อมูลการติดเหมือนคล้าย
-
+## ข้อมูลคำขอที่ได้รับจดโดยไม่มีการสั่งแก้ไข
+[TMSimilarData/TMReg.json](https://github.com/DIP-TH/Hackathon2021/blob/main/TMSimilarData/TMReg.json)
 
 ## รหัส Vienna Code
 [/StandardCode/ViennaCodeTH.json](https://github.com/DIP-TH/Hackathon2021/blob/main/StandardCode/ViennaCodeTH.json)
